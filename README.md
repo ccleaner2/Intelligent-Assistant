@@ -1,3 +1,5 @@
 # Intelligent Assistant
-个人仓库，用于提交笔记、心得体会或分享项目
-GitHub 仓库（https://github.com/InternLM/Tutorial）
+这是一个公开的大模型相关项目、笔记仓库
+GitHub 仓库链接
+https://github.com/InternLM/Tutorial
+欢迎一起加油！
